@@ -1,0 +1,23 @@
+{
+  "name": "web-bomber",
+  "version": "2.0.0",
+  "description": "bookmarklet, zelda, bomber, bomb, web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookmakrlet",
+    "zelda",
+    "web",
+    "bomb",
+    "bomber"
+  ],
+  "author": "Markus Rudolph",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
